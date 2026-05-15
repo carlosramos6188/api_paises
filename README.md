@@ -30,7 +30,7 @@ https://restcountries.com/
 Clonar el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/carlosramos6188/api_paises.git
 ```
 
 Entrar a la carpeta:
@@ -137,6 +137,12 @@ Ejemplo:
 ---
 
 ## Autor
+
+---
+
+## Repositorio GitHub
+
+https://github.com/carlosramos6188/api_paises
 
 Carlos Andres Ramos Peña
 Jose de Avila Guette
